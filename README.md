@@ -4,7 +4,7 @@
 
 
 
-# Abdullozoda Imomrizo (hia-03)
+# Abdullozoda Imomrizo 
 
 ## Backend Developer
 
@@ -54,18 +54,7 @@ Backend-разработчик с опытом разработки устойч
 
 ---
 
-## Проекты
 
-1. **CRM System** — система управления данными клиентов  
-   https://github.com/hia-03/crm
-
-2. **Balance Transactions Creator** — сервис автоматизации транзакций  
-   https://github.com/hia-03/createbalancetransactions
-
-3. **YouTube Mini (Django)** — мини-платформа для загрузки и просмотра видео  
-   https://github.com/hia-03/youtube-mini-django
-
----
 
 ## Контакты
 
